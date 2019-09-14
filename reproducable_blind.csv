@@ -1,0 +1,256 @@
+﻿Reproduced,Year,Type,Primary Topic,Year Attempted,Author Code Available,Authors Reply,Rigor vs Empirical,Number of Authors,Pages,Num References,Number of Equations,Number of Proofs,Has Appendix,Looks Intimidating,Paper Readability,Algo Difficulty,Pseudo Code,Data Available,Total Tables and Figures,Number of Tables,Number of Graphs/Plots,Number of Other Figures,Conceptualization Figures,Uses Exemplar Toy Problem,Exact Compute Used,Hyperparameters Specified,Compute Needed
+No,2003,Journal,Topic Modeling,2012,Yes,No,Theory,3,25,32,27,0,Yes,No,Ok,High,No,Yes,14,0,3,7,4,No,No,Yes,Desktop
+No,2010,Journal,Search/Retrieval,2012,No,No,Theory,2,14,18,34,1,No,No,Low,High,Step-Code,No,38,2,33,0,3,Yes,No,Yes,Desktop
+Yes,1996,Journal,Search/Retrieval,2012,No,N/A,Empirical,2,9,17,21,0,No,Yes,Ok,Low,Step-Code,Yes,34,1,24,6,3,Yes,No,Yes,Desktop
+No,2006,Conference,Search/Retrieval,2012,Yes,No,Theory,3,8,17,57,10,Yes,Yes,Low,High,Yes,Yes,5,0,5,0,0,No,No,Yes,Desktop
+No,2006,Conference,Search/Retrieval,2012,Yes,No,Theory,2,8,32,34,5,Yes,Yes,Good,Medium,Step-Code,N/A,1,1,0,0,0,No,No,No,Desktop
+Yes,1997,Conference,Search/Retrieval,2012,No,N/A,Balance,2,15,27,21,3,No,Yes,Ok,High,Step-Code,No,10,4,1,1,4,No,No,Yes,Desktop
+Yes,1993,Conference,Search/Retrieval,2012,No,N/A,Balance,1,11,27,8,2,No,Yes,Ok,Medium,Code-Like,No,12,2,3,2,5,No,No,Yes,Desktop
+Yes,2012,Conference,Search/Retrieval,2012,Yes,Yes,Balance,1,12,34,39,1,Yes,No,Excellent,Medium,No,Yes,12,3,7,0,2,No,Yes,Yes,Server
+No,1995,Conference,Search/Retrieval,2012,No,N/A,Balance,1,11,9,16,0,No,No,Low,Medium,Step-Code,No,12,0,10,0,2,No,No,Yes,Desktop
+Yes,1984,Conference,Search/Retrieval,2012,No,N/A,Empirical,1,11,16,9,0,No,No,Low,High,Step-Code,No,14,1,9,1,3,No,No,Yes,Desktop
+No,2004,Conference,Search/Retrieval,2012,No,N/A,Empirical,2,4,17,0,0,No,No,Low,Low,Step-Code,No,6,2,4,0,0,No,No,Partial,Desktop
+Yes,2006,Book,Search/Retrieval,2012,Yes,Yes,Theory,4,13,10,14,0,No,No,Low,Medium,No,Yes,7,0,7,0,0,No,No,Yes,Desktop
+Yes,1988,Journal,NLP,2012,No,N/A,Empirical,2,11,55,15,0,No,No,Good,Low,No,No,5,5,0,0,0,No,No,Yes,Desktop
+Yes,1990,Conference,NLP,2012,Yes,N/A,Empirical,1,6,7,0,0,No,No,Good,Low,No,No,0,0,0,0,0,No,No,Yes,Desktop
+Yes,2000,Conference,Meta,2012,No,N/A,Theory,3,7,10,19,2,Yes,No,Excellent,Low,No,Yes,3,1,0,0,2,No,No,Yes,Desktop
+No,2008,Journal,Kernel/SVMs,2012,No,N/A,Theory,4,13,27,70,4,No,Yes,Low,High,No,Yes,14,2,2,1,9,Yes,No,No,Desktop
+Yes,2010,Journal,Kernel/SVMs,2012,No,N/A,Theory,4,27,37,45,3,No,Yes,Ok,Low,Yes,Yes,26,5,21,0,0,No,Yes,Yes,Desktop
+No,2007,Journal,Kernel/SVMs,2012,No,N/A,Theory,3,13,35,45,1,No,Yes,Low,Medium,Step-Code,Yes,25,19,6,0,0,No,No,Yes,Desktop
+Yes,2003,Journal,Feature Engineering,2012,No,N/A,Theory,1,17,16,79,7,No,Yes,Good,Low,No,No,0,0,0,0,0,No,No,Yes,Desktop
+No,2000,Journal,Feature Engineering,2012,No,N/A,Empirical,2,32,23,13,2,No,No,Ok,Low,Code-Like,Yes,28,7,11,10,0,No,No,Yes,Desktop
+Yes,2000,Journal,Ensembling,2012,No,N/A,Balance,3,38,29,60,5,No,Yes,Ok,Low,Yes,Yes,17,3,13,1,0,No,No,Partial,Desktop
+No,2001,Journal,Ensembling,2012,Yes,N/A,Theory,1,22,13,50,4,Yes,Yes,Low,High,Yes,Yes,1,0,0,0,1,No,No,No,Desktop
+Yes,2009,Journal,Ensembling,2012,No,N/A,Balance,4,12,24,37,1,Yes,No,Ok,Low,Step-Code,Yes,18,5,13,0,0,No,No,Yes,Desktop
+Yes,2001,Journal,Ensembling,2012,Yes,N/A,Empirical,1,27,17,32,1,Yes,No,Excellent,Medium,No,Yes,14,8,6,0,0,No,No,Yes,Desktop
+Yes,2006,Journal,Ensembling,2012,Yes,N/A,Balance,3,26,49,25,1,Yes,No,Excellent,Low,Yes,Yes,78,6,72,0,0,No,No,Yes,Desktop
+No,2004,Journal,Ensembling,2012,No,N/A,Balance,3,31,25,25,1,Yes,No,Ok,Medium,Step-Code,Yes,8,5,2,0,1,Yes,No,Yes,Desktop
+Yes,2001,Journal,Ensembling,2012,Yes,N/A,Balance,1,39,22,92,0,No,Yes,Excellent,Low,Step-Code,Yes,48,5,43,0,0,No,No,Yes,Desktop
+Yes,1999,Journal,Ensembling,2012,No,N/A,Balance,1,10,5,14,0,No,No,Good,Medium,Yes,Yes,9,0,9,0,0,No,No,Yes,Desktop
+Yes,1998,Journal,Ensembling,2012,No,N/A,Empirical,1,23,21,13,0,No,No,Good,Low,Yes,Yes,15,10,5,0,0,No,No,Yes,Desktop
+Yes,2011,Journal,Ensembling,2012,Yes,N/A,Empirical,3,13,18,11,0,Yes,No,Good,Low,Yes,Yes,10,4,6,0,0,No,Yes,Yes,Desktop
+No,2000,Journal,Ensembling,2012,Yes,No,Balance,1,29,26,5,0,Yes,No,Ok,Medium,Step-Code,Yes,24,24,0,0,0,No,No,Yes,Desktop
+No,2006,Conference,Ensembling,2012,No,N/A,Theory,2,7,21,23,3,No,No,Good,Low,No,Yes,26,1,25,0,0,No,No,Yes,Desktop
+No,2002,Conference,Ensembling,2012,No,N/A,Balance,4,8,21,22,0,No,No,Ok,Medium,Yes,No,3,0,1,2,0,No,No,Yes,Desktop
+Yes,1996,Conference,Ensembling,2012,No,N/A,Empirical,2,15,20,4,0,Yes,No,Excellent,Low,Yes,Yes,5,3,1,1,0,No,No,No,Desktop
+Yes,1996,Conference,Ensembling,2012,Yes,N/A,Empirical,1,6,19,4,0,No,No,Good,Low,No,Yes,3,1,2,0,0,No,No,Yes,Desktop
+No,2003,Journal,Dimension Reduction,2012,Yes,N/A,Theory,2,6,6,18,4,Yes,No,Low,Medium,Step-Code,Yes,4,0,4,0,0,Yes,No,Yes,Desktop
+Yes,2000,Journal,Dimension Reduction,2012,Yes,N/A,Empirical,3,4,36,10,0,No,Yes,Ok,Medium,Step-Code,Yes,8,0,6,1,1,Yes,No,Yes,Desktop
+No,2000,Journal,Dimension Reduction,2012,Yes,N/A,Empirical,2,4,15,5,0,No,No,Low,Medium,No,No,5,0,2,1,2,Yes,No,Partial,Desktop
+No,2006,Conference,Dimension Reduction,2012,Yes,N/A,Theory,2,8,11,46,2,No,Yes,Low,Medium,Step-Code,Yes,11,0,10,0,1,Yes,No,Yes,Desktop
+No,1991,Journal,Other,2012,No,N/A,Theory,2,8,6,23,0,No,Yes,Low,Low,No,No,2,0,1,1,0,No,No,Yes,Desktop
+Yes,2002,Journal,Clustering,2012,No,N/A,Empirical,2,17,67,42,2,Yes,Yes,Good,Low,Step-Code,Yes,15,0,0,14,1,Yes,No,No,Desktop
+No,2006,Journal,Clustering,2012,No,N/A,Theory,2,14,46,46,0,No,Yes,Low,High,No,No,19,2,10,6,1,Yes,No,No,Desktop
+Yes,2003,Conference,Clustering,2012,No,Yes,Theory,1,7,31,8,2,No,No,Low,High,Step-Code,Yes,2,2,0,0,0,No,No,Yes,Desktop
+Yes,1999,Conference,Clustering,2012,Yes,N/A,Empirical,4,12,27,32,0,No,Yes,Low,High,Code-Like,Yes,18,0,7,4,7,Yes,No,Yes,Desktop
+Yes,2007,Conference,Clustering,2012,Yes,Yes,Empirical,2,10,10,9,0,No,No,Good,Low,Yes,No,7,0,0,5,2,Yes,No,Yes,Desktop
+Yes,2010,Conference,Clustering,2012,Yes,Yes,Empirical,1,11,19,4,0,No,Yes,Good,Medium,Code-Like,Yes,4,4,0,0,0,No,Yes,Yes,Desktop
+No,2003,Conference,Clustering,2012,No,N/A,Empirical,5,12,10,4,0,No,No,Low,Medium,Code-Like,No,11,0,0,8,3,Yes,No,Yes,Desktop
+Yes,1998,Journal,Classification,2012,No,N/A,Theory,1,34,22,104,16,No,Yes,Ok,Low,No,No,5,2,0,3,0,No,No,Yes,Desktop
+Yes,1997,Journal,Classification,2012,No,N/A,Empirical,4,63,229,81,0,No,Yes,Good,Low,No,Yes,25,0,21,2,2,Yes,No,Partial,Desktop
+Yes,2007,Journal,Classification,2012,Yes,N/A,Balance,3,14,66,35,0,No,Yes,Low,High,Yes,Yes,12,3,9,0,0,No,No,Yes,Desktop
+Yes,1986,Journal,Classification,2012,Yes,N/A,Empirical,1,26,35,25,0,No,No,Good,Medium,No,Yes,8,3,1,1,3,Yes,No,Yes,Desktop
+Yes,2005,Journal,Classification,2012,Yes,N/A,Balance,3,24,28,18,0,No,Yes,Good,Low,No,Yes,11,10,1,0,0,No,No,Yes,Desktop
+No,2000,Conference,Classification,2012,Yes,N/A,Balance,2,10,24,19,2,No,No,Ok,Medium,Yes,Yes,7,0,7,0,0,No,No,Yes,Desktop
+No,2002,Conference,Classification,2012,Yes,N/A,Theory,2,7,17,20,0,No,No,Low,High,Yes,Yes,2,2,0,0,0,No,No,Yes,Desktop
+Yes,2006,Conference,Classification,2012,No,N/A,Empirical,2,5,8,10,0,No,No,Ok,Low,No,Yes,1,1,0,0,0,No,No,Yes,Desktop
+Yes,2003,Conference,Classification,2012,Yes,N/A,Empirical,3,8,16,6,0,No,No,Excellent,Low,No,Yes,7,3,3,1,0,Yes,No,Yes,Desktop
+Yes,2002,Journal,Class Imbalance,2012,No,N/A,Empirical,4,37,37,5,0,Yes,No,Good,Low,Yes,Yes,35,5,27,3,0,Yes,No,Yes,Desktop
+No,2001,Journal,Bayesian,2012,Yes,N/A,Theory,3,37,58,72,4,Yes,Yes,Ok,High,Yes,Yes,16,1,9,3,3,Yes,No,Yes,Desktop
+No,1997,Journal,Bayesian,2012,No,N/A,Empirical,3,29,42,18,2,Yes,Yes,Low,High,Step-Code,Yes,16,4,10,1,1,No,No,No,Desktop
+No,2000,Journal,Bayesian,2012,Yes,N/A,Empirical,2,35,47,6,0,No,No,Ok,Medium,Code-Like,Yes,12,6,6,0,0,No,No,Yes,Desktop
+No,2008,Conference,Bayesian,2012,Yes,N/A,Empirical,4,8,9,11,0,No,No,Low,Low,Step-Code,Yes,21,3,17,1,0,No,Yes,Yes,Desktop
+Yes,2013,Journal,Topic Modeling,2013,Yes,Yes,Theory,4,44,103,137,0,No,Yes,Low,High,Step-Code,Yes,25,3,18,4,0,No,No,No,Desktop
+Yes,2010,Conference,Topic Modeling,2013,Yes,Yes,Theory,3,9,25,24,0,No,No,Low,Medium,Yes,Yes,5,1,3,1,0,No,No,Partial,Desktop
+Yes,1991,Tech Report,Search/Retrieval,2013,Yes,N/A,Empirical,1,6,8,6,0,Yes,No,Ok,Medium,Step-Code,No,2,0,0,0,2,Yes,No,No,Desktop
+Yes,2004,Conference,Search/Retrieval,2013,Yes,N/A,Balance,4,7,31,19,3,Yes,No,Low,High,No,Yes,6,0,6,0,0,No,Yes,Yes,Desktop
+Yes,1989,Book,Search/Retrieval,2013,Yes,N/A,Empirical,1,22,7,2,0,No,No,Ok,Medium,Yes,No,25,0,17,1,7,Yes,No,No,Desktop
+No,2004,Journal,Outlier Detection,2013,Yes,N/A,Theory,2,22,29,52,0,No,No,Low,Medium,No,Yes,23,4,8,0,11,Yes,No,No,Desktop
+No,1999,Conference,Outlier Detection,2013,No,No,Theory,5,7,9,29,4,No,No,Low,Medium,No,Yes,5,0,0,1,4,Yes,Yes,Yes,Desktop
+Yes,1992,Workshop,Optimization,2013,No,N/A,Empirical,3,11,14,18,0,No,Yes,Excellent,Low,No,No,22,0,20,0,2,Yes,No,Yes,Desktop
+Yes,2012,Tech Report,Optimization,2013,Yes,N/A,Balance,1,6,7,16,0,No,No,Excellent,Low,Step-Code,Yes,11,2,9,0,0,No,No,Yes,Desktop
+Yes,2011,Journal,Optimization,2013,No,N/A,Theory,3,31,44,158,11,Yes,Yes,Good,Low,Yes,Yes,10,4,6,0,0,No,No,Yes,Desktop
+No,2013,Journal,Optimization,2013,Yes,N/A,Balance,3,14,22,33,2,Yes,Yes,Low,Medium,Step-Code,Yes,28,3,24,0,1,Yes,No,Yes,GPU
+Yes,1992,Conference,Optimization,2013,No,N/A,Empirical,2,8,9,17,0,No,No,Excellent,Low,No,No,21,0,20,0,1,Yes,No,Yes,Desktop
+Yes,2012,Book,Optimization,2013,No,N/A,Empirical,1,16,28,64,0,No,No,Excellent,Medium,Step-Code,No,6,2,4,0,0,No,No,Yes,Desktop
+Yes,2006,Journal,Online Classification,2013,Yes,N/A,Theory,5,34,34,139,9,Yes,No,Good,Low,Yes,Yes,12,0,12,0,0,No,No,Yes,Desktop
+Yes,2011,Journal,Online Classification,2013,Yes,N/A,Balance,3,22,30,54,9,Yes,Yes,Good,Medium,Yes,Yes,20,4,16,0,0,No,Yes,Yes,Desktop
+Yes,2002,Journal,Online Classification,2013,No,N/A,Balance,1,30,48,43,7,No,Yes,Excellent,Low,Yes,Yes,20,6,14,0,0,No,No,Yes,Desktop
+Yes,2002,Journal,Online Classification,2013,No,N/A,Balance,2,31,48,73,6,No,Yes,Excellent,Low,Yes,Yes,8,5,0,0,3,No,Yes,Yes,Desktop
+Yes,2013,Journal,Online Classification,2013,Yes,N/A,Theory,3,9,11,32,3,No,No,Ok,Low,Step-Code,Yes,11,2,9,0,0,No,No,No,Desktop
+Yes,2008,Conference,Online Classification,2013,No,N/A,Theory,3,8,20,30,5,Yes,No,Good,Low,Yes,Yes,4,0,3,1,0,No,No,No,Desktop
+Yes,2010,Conference,Online Classification,2013,No,Yes,Balance,5,12,15,75,4,No,Yes,Ok,Low,Yes,Yes,13,6,7,0,0,No,No,Yes,Desktop
+Yes,2010,Conference,Online Classification,2013,Yes,Yes,Balance,2,8,16,33,3,No,Yes,Good,Medium,Yes,Yes,5,1,4,0,0,No,No,Yes,Desktop
+Yes,2012,Conference,Online Classification,2013,Yes,N/A,Balance,3,7,16,40,2,Yes,No,Excellent,Low,Yes,Yes,9,3,6,0,0,No,No,Yes,Desktop
+Yes,2012,Conference,Online Classification,2013,Yes,N/A,Balance,2,16,12,38,2,No,Yes,Good,Medium,Yes,Yes,21,3,18,0,0,No,No,Yes,Desktop
+No,2010,Conference,Online Classification,2013,No,N/A,Theory,2,9,14,35,2,No,Yes,Low,Low,Yes,Yes,15,0,8,3,4,No,No,No,Desktop
+Yes,2003,Conference,Online Classification,2013,No,N/A,Theory,3,8,7,15,1,No,No,Good,Low,Yes,Yes,10,1,9,0,0,No,No,No,Desktop
+Yes,2010,Journal,Non-Linear Other,2013,Yes,N/A,Empirical,5,22,36,41,1,Yes,Yes,Good,High,No,Yes,12,11,0,1,0,No,Yes,Yes,Desktop
+Yes,2011,Conference,Non-Linear Other,2013,Yes,Yes,Balance,4,9,28,36,3,Yes,Yes,Ok,Medium,Yes,Yes,9,4,4,0,1,No,Yes,Yes,Desktop
+Yes,2001,Journal,Deep Learning,2013,No,N/A,Empirical,3,19,58,50,0,Yes,Yes,Good,Medium,Yes,No,22,4,1,15,2,No,No,No,Desktop
+Yes,1998,Conference,Deep Learning,2013,No,N/A,Empirical,2,6,3,15,0,No,No,Excellent,Low,No,No,28,3,24,0,1,Yes,No,No,Desktop
+Yes,2007,Journal,Meta,2013,Yes,N/A,Balance,3,8,9,18,3,Yes,No,Good,Low,Code-Like,Yes,2,2,0,0,0,No,No,Yes,Desktop
+Yes,2005,Conference,Meta,2013,No,N/A,Empirical,2,8,9,6,0,No,Yes,Good,Low,Yes,Yes,63,2,61,0,0,No,No,Yes,Desktop
+Yes,1999,Book,Meta,2013,No,N/A,Empirical,1,11,22,16,0,Yes,No,Good,Low,Code-Like,Yes,4,2,2,0,0,No,No,Yes,Desktop
+Yes,2012,Journal,Linear Models,2013,No,N/A,Theory,2,33,19,167,14,No,Yes,Ok,Medium,Step-Code,Yes,108,2,106,0,0,No,Yes,Yes,Desktop
+Yes,2010,Journal,Linear Models,2013,Yes,N/A,Balance,3,29,33,104,8,Yes,Yes,Good,Medium,Yes,Yes,32,5,25,0,2,No,Yes,Yes,Desktop
+No,2009,Journal,Linear Models,2013,Yes,N/A,Theory,3,17,15,58,2,Yes,No,Low,Low,Step-Code,Yes,3,1,2,0,0,No,No,Yes,Desktop
+No,2008,Journal,Linear Models,2013,No,N/A,Theory,2,27,27,28,2,Yes,No,Low,Medium,Step-Code,No,14,6,5,2,1,No,No,Yes,Desktop
+Yes,2012,Journal,Linear Models,2013,Yes,Yes,Balance,3,9,13,42,1,Yes,Yes,Good,Medium,Code-Like,Yes,17,3,14,0,0,No,Yes,Yes,Desktop
+Yes,2010,Journal,Linear Models,2013,Yes,N/A,Empirical,4,50,70,140,0,Yes,Yes,Excellent,High,Yes,Yes,64,2,62,0,0,No,Yes,Yes,Desktop
+Yes,2012,Journal,Linear Models,2013,Yes,N/A,Balance,2,27,25,78,0,Yes,Yes,Excellent,Medium,Yes,Yes,44,5,36,1,2,No,Yes,Yes,Desktop
+No,2010,Conference,Linear Models,2013,Yes,N/A,Theory,5,10,30,78,4,No,Yes,Ok,Medium,Yes,Yes,4,2,2,0,0,No,Yes,Yes,Desktop
+No,2000,Conference,Linear Models,2013,Yes,N/A,Balance,2,7,12,13,0,No,Yes,Low,Medium,Step-Code,No,6,0,3,2,1,No,No,No,Desktop
+Yes,2008,Journal,Kernel/SVMs,2013,No,N/A,Theory,3,31,12,156,13,No,Yes,Ok,Low,Yes,Yes,14,1,12,0,1,No,No,Yes,Desktop
+Yes,2009,Journal,Kernel/SVMs,2013,Yes,N/A,Balance,3,24,33,107,5,No,Yes,Good,Low,Yes,Yes,14,1,12,0,1,No,No,Yes,Desktop
+Yes,2005,Journal,Kernel/SVMs,2013,Yes,N/A,Balance,3,27,22,82,4,Yes,Yes,Good,Medium,Code-Like,Yes,27,1,26,0,0,No,No,Yes,Desktop
+Yes,2012,Journal,Kernel/SVMs,2013,Yes,Yes,Balance,3,27,55,45,3,Yes,Yes,Good,High,Yes,Yes,18,6,10,1,1,No,Yes,Yes,Desktop
+Yes,1999,Journal,Kernel/SVMs,2013,No,N/A,Balance,2,19,21,45,3,No,No,Excellent,Low,Step-Code,Yes,9,3,6,0,0,No,No,Yes,Desktop
+No,2005,Journal,Kernel/SVMs,2013,Yes,N/A,Balance,3,30,57,49,2,No,Yes,Low,High,Step-Code,Yes,24,4,18,1,1,Yes,Yes,Yes,Desktop
+Yes,2004,Journal,Kernel/SVMs,2013,No,N/A,Theory,2,70,145,249,1,Yes,Yes,Ok,Medium,Yes,Yes,21,7,6,1,7,Yes,No,Yes,Desktop
+No,2005,Journal,Kernel/SVMs,2013,Yes,N/A,Theory,3,29,45,135,0,No,Yes,Good,Medium,No,Yes,9,2,3,0,4,Yes,No,Yes,Desktop
+No,1995,Journal,Kernel/SVMs,2013,No,N/A,Theory,2,25,14,61,0,Yes,No,Low,Medium,No,Yes,13,3,1,3,6,Yes,No,No,Desktop
+Yes,2000,Journal,Kernel/SVMs,2013,No,N/A,Balance,4,6,11,57,0,No,Yes,Ok,Medium,No,Yes,3,0,3,0,0,No,Yes,Yes,Desktop
+Yes,2001,Journal,Kernel/SVMs,2013,Yes,N/A,Balance,4,28,5,37,0,No,No,Ok,Medium,Code-Like,Yes,10,10,0,0,0,No,No,Yes,Desktop
+Yes,2004,Journal,Kernel/SVMs,2013,No,N/A,Balance,3,8,13,30,0,No,No,Good,Medium,Yes,Yes,8,2,6,0,0,No,Yes,Yes,Desktop
+No,1999,Journal,Kernel/SVMs,2013,Yes,N/A,Theory,2,6,0,30,0,No,No,Low,Low,No,Yes,1,0,1,0,0,No,No,No,Desktop
+Yes,2008,Conference,Kernel/SVMs,2013,Yes,Yes,Balance,5,9,24,44,7,Yes,Yes,Good,Medium,Code-Like,Yes,14,2,12,0,0,No,Yes,Yes,Desktop
+Yes,2012,Conference,Kernel/SVMs,2013,Yes,Yes,Balance,3,8,22,33,6,Yes,No,Good,Medium,Yes,Yes,6,2,3,0,1,No,Yes,Yes,Desktop
+No,2007,Conference,Kernel/SVMs,2013,Yes,No,Balance,3,8,16,42,4,No,Yes,Low,High,Yes,Yes,23,4,18,0,1,No,No,Yes,Desktop
+No,2005,Conference,Kernel/SVMs,2013,No,No,Theory,5,8,12,13,4,No,No,Low,Low,No,Yes,9,2,4,0,3,No,No,Yes,Desktop
+Yes,2012,Conference,Kernel/SVMs,2013,Yes,N/A,Balance,5,8,16,53,3,No,Yes,Ok,Medium,Yes,Yes,3,3,0,0,0,No,Yes,Yes,Desktop
+Yes,2008,Conference,Kernel/SVMs,2013,Yes,N/A,Balance,3,8,17,48,3,No,No,Good,Low,Yes,Yes,6,3,3,0,0,No,No,No,Desktop
+Yes,2010,Conference,Kernel/SVMs,2013,Yes,Yes,Balance,3,8,23,46,3,No,Yes,Good,Medium,Yes,Yes,4,1,3,0,0,No,No,Yes,Desktop
+No,2009,Conference,Kernel/SVMs,2013,No,N/A,Theory,3,8,24,35,3,Yes,No,Good,Low,Yes,Yes,7,2,4,0,1,No,No,Partial,Desktop
+Yes,2012,Conference,Kernel/SVMs,2013,No,N/A,Balance,4,7,27,29,3,No,No,Good,Low,Yes,Yes,17,2,15,0,0,No,No,Yes,Desktop
+No,2004,Conference,Kernel/SVMs,2013,No,N/A,Theory,4,8,30,33,1,No,Yes,Low,High,Step-Code,Yes,6,2,4,0,0,No,No,No,Desktop
+No,2003,Conference,Kernel/SVMs,2013,Yes,No,Balance,3,8,13,16,1,No,No,Ok,Medium,Yes,Yes,5,1,3,0,1,No,No,Yes,Desktop
+Yes,2003,Conference,Kernel/SVMs,2013,Yes,N/A,Theory,2,21,20,89,0,Yes,Yes,Good,Medium,Step-Code,Yes,6,4,2,0,0,No,No,Yes,Desktop
+No,2009,Conference,Kernel/SVMs,2013,No,No,Empirical,3,10,30,26,0,Yes,No,Low,High,Yes,No,9,2,6,0,1,No,Yes,Yes,Cluster
+No,2007,Conference,Kernel/SVMs,2013,No,N/A,Balance,7,8,18,25,0,No,Yes,Ok,High,Yes,Yes,11,2,9,0,0,No,No,Yes,500 CPUs
+No,2001,Conference,Kernel/SVMs,2013,Yes,N/A,Theory,2,8,13,25,0,No,Yes,Ok,Low,Step-Code,Yes,8,0,3,0,5,No,No,No,Desktop
+Yes,1998,Book,Kernel/SVMs,2013,Yes,N/A,Balance,1,20,20,24,1,Yes,Yes,Good,Medium,Code-Like,Yes,13,10,0,1,2,No,Yes,Yes,Desktop
+No,1999,Book,Kernel/SVMs,2013,Yes,N/A,Balance,1,16,11,41,0,Yes,Yes,Low,Medium,No,Yes,8,4,4,0,0,No,Yes,Yes,Desktop
+Yes,1996,Journal,Ensembling,2013,Yes,N/A,Empirical,1,19,15,49,0,No,Yes,Excellent,Low,No,Yes,8,5,3,0,0,Yes,No,Yes,Desktop
+Yes,2005,Conference,Ensembling,2013,Yes,N/A,Empirical,2,4,9,20,0,No,No,Good,Low,Step-Code,Yes,4,0,4,0,0,No,No,No,Desktop
+Yes,2008,Journal,Embedding,2013,Yes,N/A,Balance,2,24,39,17,0,Yes,No,Ok,Medium,No,Yes,18,1,16,0,1,No,Yes,Yes,Desktop
+No,2000,Conference,Embedding,2013,Yes,N/A,Balance,2,8,17,11,0,No,No,Low,Medium,Step-Code,No,11,0,9,1,1,Yes,No,No,Desktop
+Yes,1994,Tech Report,Deep Learning,2013,No,N/A,Empirical,1,2,5,5,0,No,No,Excellent,Low,Yes,No,0,0,0,0,0,No,No,Yes,Desktop
+Yes,2012,Journal,Deep Learning,2013,No,N/A,Empirical,5,7,19,0,0,Yes,No,Excellent,Low,No,Yes,4,0,2,2,0,No,Yes,Yes,GPU
+Yes,2007,Conference,Deep Learning,2013,Yes,N/A,Empirical,4,8,16,29,0,Yes,Yes,Ok,Low,Yes,Yes,3,2,1,0,0,No,No,No,GPU
+Yes,2010,Conference,Deep Learning,2013,No,N/A,Balance,2,8,20,18,0,No,Yes,Low,Low,No,Yes,20,1,17,1,1,No,No,Yes,GPU
+Yes,2000,Conference,Deep Learning,2013,No,N/A,Empirical,2,7,19,18,0,No,Yes,Excellent,Low,Yes,Yes,7,1,6,0,0,No,No,Yes,Desktop
+Yes,1993,Conference,Deep Learning,2013,No,N/A,Empirical,2,6,7,10,0,No,No,Good,Low,Yes,No,7,5,2,0,0,Yes,No,Yes,Desktop
+Yes,2011,Conference,Deep Learning,2013,Yes,N/A,Balance,3,9,36,9,0,No,No,Excellent,Low,No,Yes,8,2,5,0,1,No,No,Yes,GPU
+Yes,2013,Conference,Deep Learning,2013,Yes,N/A,Empirical,3,6,16,3,0,No,No,Excellent,Low,No,Yes,2,2,0,0,0,No,Yes,Yes,GPU
+No,2006,Conference,Decision Trees,2013,Yes,N/A,Empirical,2,6,16,17,0,No,No,Low,Medium,Step-Code,Yes,6,4,1,1,0,No,Yes,No,Desktop
+Yes,1993,Book,Decision Trees,2013,Yes,N/A,Empirical,1,107,60,30,0,Yes,No,Excellent,High,No,Yes,42,15,3,14,10,Yes,No,Yes,Desktop
+No,2006,Conference,Other,2013,Yes,N/A,Empirical,4,8,14,0,0,No,No,Low,Low,Step-Code,No,12,1,8,3,0,No,No,Partial,Desktop
+Yes,2007,Journal,Clustering,2013,Yes,N/A,Empirical,2,15,31,11,0,No,No,Excellent,Low,No,Yes,15,1,13,0,1,Yes,No,Yes,Desktop
+Yes,2007,Conference,Clustering,2013,No,N/A,Theory,2,11,12,53,8,No,Yes,Excellent,Low,Step-Code,Yes,4,4,0,0,0,No,No,Yes,Desktop
+No,2005,Conference,Clustering,2013,Yes,N/A,Theory,2,8,19,49,3,Yes,Yes,Low,Medium,Step-Code,Yes,4,1,1,1,1,Yes,No,No,Desktop
+Yes,2010,Conference,Clustering,2013,Yes,N/A,Empirical,1,2,6,3,0,No,No,Excellent,Low,Yes,Yes,4,1,3,0,0,No,Yes,Yes,Desktop
+Yes,2009,Conference,Classification,2013,Yes,N/A,Theory,2,8,25,62,3,No,No,Good,Low,Yes,Yes,6,0,6,0,0,No,No,Yes,Desktop
+No,2005,Journal,Bayesian,2013,Yes,N/A,Theory,2,18,32,61,4,Yes,Yes,Ok,Medium,Step-Code,Yes,15,3,8,4,0,Yes,No,Yes,Desktop
+No,2003,Conference,Bayesian,2013,Yes,No,Theory,2,13,12,34,0,Yes,Yes,Low,High,Step-Code,Yes,8,0,8,0,0,No,No,Yes,Desktop
+No,2012,Conference,Topic Modeling,2014,Yes,N/A,Balance,2,16,20,48,3,No,Yes,Ok,High,Yes,Yes,38,1,34,3,0,No,Yes,No,Cluster
+No,2012,Conference,Topic Modeling,2014,No,N/A,Balance,3,8,18,30,0,Yes,No,Low,High,Step-Code,Yes,9,1,8,0,0,No,No,Yes,Desktop
+No,2009,Book,Topic Modeling,2014,Yes,No,Balance,2,24,41,29,0,No,No,Low,High,Step-Code,Yes,9,0,0,7,2,No,No,Yes,Desktop
+No,2007,Conference,Optimization,2014,No,N/A,Theory,4,10,43,79,5,Yes,No,Ok,Medium,Step-Code,Yes,31,3,26,1,1,No,Yes,Yes,Cluster
+Yes,2007,Conference,Optimization,2014,Yes,N/A,Theory,2,8,18,32,3,Yes,Yes,Ok,High,Yes,Yes,8,2,6,0,0,No,No,No,Desktop
+No,2010,Conference,Online Classification,2014,No,N/A,Theory,2,9,18,60,3,Yes,Yes,Low,Low,Yes,Yes,13,0,13,0,0,Yes,No,No,Desktop
+No,2008,Conference,Online Classification,2014,Yes,N/A,Theory,3,9,14,49,0,No,No,Low,Low,Yes,Yes,8,3,5,0,0,No,No,Yes,Desktop
+No,2013,Conference,Non-Linear Other,2014,No,N/A,Balance,3,16,28,32,1,Yes,Yes,Low,Medium,Yes,Yes,8,2,6,0,0,Yes,Yes,Yes,Desktop
+No,2011,Tech Report,Linear Models,2014,Yes,No,Empirical,4,22,35,35,0,No,No,Good,High,Yes,Yes,11,5,6,0,0,No,No,No,Cluster
+No,2009,Journal,Linear Models,2014,Yes,N/A,Balance,3,17,18,50,1,Yes,No,Ok,Medium,Yes,Yes,14,6,8,0,0,No,No,Yes,Desktop
+Yes,2013,Conference,Kernel/SVMs,2014,No,N/A,Theory,5,8,29,64,4,Yes,Yes,Good,Low,Yes,Yes,5,5,0,0,0,No,No,Yes,Desktop
+No,2009,Conference,Kernel/SVMs,2014,No,N/A,Balance,2,9,25,40,0,Yes,No,Low,Low,No,Yes,10,0,4,6,0,No,No,No,Desktop
+No,2011,Conference,Ensembling,2014,No,N/A,Theory,2,9,11,43,3,No,No,Low,Medium,Yes,Yes,5,2,3,0,0,No,No,No,Desktop
+No,2008,Conference,Ensembling,2014,No,N/A,Theory,2,8,10,53,1,Yes,Yes,Low,High,Step-Code,Yes,7,4,3,0,0,No,No,No,Desktop
+Yes,2014,Conference,Ensembling,2014,No,N/A,Empirical,2,9,18,12,0,No,No,Excellent,Medium,Yes,Yes,17,3,14,0,0,No,No,Yes,Desktop
+No,2012,Conference,NLP,2014,No,N/A,Theory,7,7,37,36,1,No,Yes,Low,Low,Yes,Yes,8,4,4,0,0,No,No,No,Desktop
+Yes,2006,Journal,Decision Trees,2014,Yes,N/A,Empirical,1,13,14,7,0,Yes,No,Excellent,Medium,No,Yes,7,5,2,0,0,Yes,No,Yes,Desktop
+No,2014,Conference,Decision Trees,2014,Yes,N/A,Theory,3,11,19,69,0,Yes,No,Low,High,Yes,Yes,11,0,8,0,3,Yes,No,Yes,Desktop
+Yes,2009,Tech Report,Concept Drift,2014,Yes,N/A,Empirical,2,12,16,6,0,No,No,Excellent,Medium,Yes,Yes,7,2,5,0,0,Yes,No,Yes,Desktop
+Yes,2007,Conference,Concept Drift,2014,Yes,N/A,Balance,2,16,17,15,1,Yes,No,Good,Medium,Yes,Yes,16,12,4,0,0,Yes,Yes,Yes,Desktop
+Yes,2006,Conference,Concept Drift,2014,Yes,N/A,Empirical,6,10,15,11,0,No,No,Excellent,Low,No,Yes,15,3,12,0,0,Yes,No,Yes,Desktop
+Yes,2004,Conference,Concept Drift,2014,Yes,N/A,Empirical,4,10,12,7,0,No,No,Excellent,Low,No,Yes,8,2,5,0,1,Yes,No,Yes,Desktop
+No,2007,Journal,Clustering,2014,No,N/A,Theory,1,32,67,155,5,No,No,Low,Medium,Step-Code,No,49,0,43,2,4,Yes,No,No,Desktop
+Yes,2015,Conference,Search/Retrieval,2015,Yes,Yes,Balance,2,9,21,22,0,No,No,Ok,High,Yes,Yes,11,2,8,0,1,Yes,Yes,Yes,Desktop
+No,2015,Conference,Optimization,2015,No,N/A,Theory,6,10,34,68,9,Yes,Yes,Ok,High,Yes,Yes,19,2,17,0,0,No,No,No,Cluster
+No,2014,Conference,Optimization,2015,No,Yes,Balance,7,9,30,30,5,Yes,No,Ok,High,Yes,Yes,10,1,9,0,0,No,No,Yes,Cluster
+No,2015,Conference,Optimization,2015,Yes,N/A,Balance,2,7,17,46,0,Yes,No,Good,Medium,Yes,Yes,2,0,2,0,0,No,No,Yes,GPU
+Yes,2012,Conference,Optimization,2015,No,N/A,Balance,2,25,34,31,0,No,No,Excellent,Low,No,Yes,40,0,37,2,1,Yes,No,Yes,Desktop
+No,2013,Conference,Linear Models,2015,No,N/A,Theory,5,12,31,81,5,Yes,Yes,Ok,High,Step-Code,Yes,15,2,13,0,0,No,Yes,Yes,Desktop
+Yes,2014,Journal,Dimension Reduction,2015,Yes,No,Empirical,1,24,67,30,0,No,No,Ok,High,No,Yes,12,0,4,6,2,No,Yes,Yes,Desktop
+Yes,2000,Journal,Dimension Reduction,2015,Yes,N/A,Empirical,3,4,37,17,0,No,No,Good,Low,Step-Code,Yes,12,0,4,5,3,Yes,No,Yes,Desktop
+No,2002,Conference,Dimension Reduction,2015,Yes,No,Balance,2,7,11,16,0,No,No,Low,Low,No,Yes,2,0,0,2,0,No,No,Yes,Desktop
+Yes,2013,Tech Report,Deep Learning,2015,Yes,N/A,Balance,1,43,33,78,0,No,Yes,Good,High,No,Yes,24,4,0,15,5,No,No,Yes,GPU
+Yes,2015,Conference,Deep Learning,2015,Yes,N/A,Empirical,2,9,24,54,0,No,No,Good,Medium,Yes,Yes,6,2,4,0,0,No,No,Yes,GPU
+Yes,2015,Conference,Deep Learning,2015,Yes,N/A,Empirical,4,11,34,49,0,No,Yes,Excellent,Low,No,Yes,36,7,4,25,0,No,Yes,Yes,GPU
+Yes,2013,Conference,Deep Learning,2015,No,N/A,Balance,3,10,25,47,0,Yes,Yes,Excellent,Medium,Step-Code,Yes,9,2,1,0,6,Yes,No,Yes,GPU
+Yes,2016,Conference,Deep Learning,2015,No,N/A,Empirical,4,9,45,36,0,No,No,Excellent,Low,No,Yes,10,8,0,1,1,No,No,Yes,GPU
+No,2009,Conference,Deep Learning,2015,Yes,N/A,Empirical,2,8,15,26,0,No,No,Low,High,Step-Code,Yes,6,0,4,2,0,No,No,Yes,Desktop
+Yes,2012,Conference,Deep Learning,2015,Yes,N/A,Empirical,3,9,26,12,0,No,No,Good,Low,No,Yes,6,2,1,2,1,No,Yes,Yes,GPU
+Yes,2015,Conference,Deep Learning,2015,Yes,N/A,Empirical,2,10,34,7,0,Yes,No,Ok,Low,No,Yes,7,7,0,0,0,No,No,Yes,GPU
+Yes,2013,Conference,Clustering,2015,No,N/A,Balance,3,13,24,36,1,No,Yes,Ok,High,Step-Code,Yes,3,1,0,0,2,Yes,No,Yes,Desktop
+Yes,2015,Book,Clustering,2015,Yes,Yes,Balance,2,37,41,94,0,No,No,Good,High,Code-Like,Yes,36,5,29,0,2,No,Yes,Yes,Desktop
+Yes,2013,Conference,NLP,2016,Yes,N/A,Empirical,4,12,32,16,0,No,No,Ok,High,No,Yes,9,8,0,0,1,No,No,Yes,Desktop
+Yes,2016,Journal,Deep Learning,2016,No,N/A,Theory,8,35,62,100,0,No,Yes,Excellent,Low,No,Yes,36,5,18,4,9,Yes,No,Yes,GPU
+Yes,2004,Journal,Search/Retrieval,2016,No,N/A,Balance,5,15,48,132,6,Yes,No,Excellent,Low,No,Yes,5,0,5,0,0,No,No,Yes,Desktop
+Yes,2016,Conference,Search/Retrieval,2016,Yes,N/A,Theory,2,9,26,72,7,Yes,Yes,Low,High,Code-Like,Yes,6,0,3,0,3,No,No,Yes,Desktop
+Yes,1997,Conference,Search/Retrieval,2016,No,N/A,Theory,1,9,10,59,1,No,Yes,Good,Low,No,No,0,0,0,0,0,Yes,No,Yes,Desktop
+Yes,2013,Conference,Search/Retrieval,2016,Yes,Yes,Balance,6,9,21,98,0,No,Yes,Low,High,Yes,Yes,1,0,0,0,1,No,No,Yes,Desktop
+No,2016,Workshop,Parallel Learning,2016,Yes,Yes,Theory,4,10,36,51,11,Yes,Yes,Low,Medium,Yes,Yes,12,2,10,0,0,No,Yes,Yes,Cluster
+No,2012,Journal,Outlier Detection,2016,No,No,Theory,2,37,41,352,9,No,Yes,Good,Medium,No,Yes,18,7,11,0,0,Yes,No,No,Desktop
+Yes,2008,Conference,Outlier Detection,2016,No,N/A,Empirical,3,10,14,24,0,No,Yes,Good,Medium,Yes,Yes,14,3,8,0,3,Yes,Yes,Yes,Desktop
+Yes,2002,Conference,Other,2016,No,N/A,Empirical,2,6,25,45,0,No,No,Good,Medium,No,Yes,15,5,10,0,0,No,No,Yes,Desktop
+No,2016,Conference,Optimization,2016,No,No,Theory,2,9,21,111,19,Yes,Yes,Low,High,Yes,Yes,8,2,6,0,0,No,Yes,No,Desktop
+Yes,2016,Journal,Online Classification,2016,Yes,N/A,Balance,3,38,51,161,11,Yes,Yes,Excellent,Low,Yes,Yes,37,8,29,0,0,No,Yes,Yes,Desktop
+Yes,2014,Conference,Non-Linear Other,2016,Yes,N/A,Balance,6,9,20,49,1,Yes,Yes,Good,Medium,Yes,Yes,4,1,1,0,2,No,No,Yes,Desktop
+No,2016,Conference,Linear Models,2016,No,N/A,Theory,1,8,19,166,8,Yes,Yes,Low,Medium,Yes,Yes,0,0,0,0,0,No,No,No,Desktop
+Yes,2013,Conference,Linear Models,2016,Yes,N/A,Theory,2,9,25,158,7,Yes,Yes,Good,High,Yes,Yes,13,1,12,0,0,No,No,Yes,Desktop
+Yes,2014,Conference,Kernel/SVMs,2016,Yes,Yes,Balance,3,9,28,54,4,Yes,Yes,Ok,High,Yes,Yes,24,4,20,0,0,No,Yes,Yes,Desktop
+No,2012,Conference,Graph Classification,2016,No,Yes,Balance,2,8,17,28,0,No,No,Ok,High,Yes,Yes,7,4,3,0,0,No,No,No,Desktop
+Yes,2000,Conference,Graph Classification,2016,No,N/A,Empirical,2,8,16,0,0,No,No,Excellent,Medium,Yes,Yes,8,2,4,1,1,Yes,No,No,Desktop
+Yes,2013,Conference,Feature Importanace,2016,No,N/A,Theory,4,9,20,42,7,Yes,Yes,Good,Medium,No,Yes,4,2,1,1,0,Yes,No,No,Desktop
+Yes,2015,Journal,Feature Engineering,2016,Yes,N/A,Balance,4,27,45,65,0,No,No,Excellent,Low,Code-Like,Yes,13,3,9,1,0,No,Yes,Yes,Desktop
+No,2016,Conference,Feature Engineering,2016,No,No,Theory,1,35,20,419,23,No,Yes,Ok,Low,Yes,Yes,2,0,1,0,1,No,No,No,Desktop
+Yes,2009,Conference,Feature Engineering,2016,No,N/A,Theory,5,7,12,60,5,Yes,Yes,Ok,Low,No,No,3,0,2,0,1,No,No,No,Desktop
+Yes,2009,Conference,Feature Engineering,2016,No,N/A,Balance,7,8,20,60,2,No,No,Low,Low,No,Yes,9,4,5,0,0,No,No,No,Desktop
+Yes,2011,Conference,Feature Engineering,2016,Yes,N/A,Balance,6,7,13,13,2,Yes,No,Good,Medium,No,Yes,7,2,4,1,0,No,No,Yes,GPU
+Yes,2016,Conference,Dimension Reduction,2016,Yes,N/A,Empirical,4,11,28,29,0,No,No,Good,High,Code-Like,Yes,30,2,27,0,1,No,Yes,Yes,Desktop
+Yes,1997,Journal,Deep Learning,2016,No,N/A,Empirical,2,9,17,31,0,No,No,Good,Medium,Step-Code,Yes,9,3,2,0,4,Yes,No,Yes,Desktop
+Yes,2016,Conference,Deep Learning,2016,Yes,N/A,Balance,3,11,35,50,3,Yes,No,Good,Low,No,Yes,21,1,20,0,0,No,Yes,Yes,GPU
+Yes,2014,Conference,Deep Learning,2016,Yes,N/A,Balance,8,9,29,36,3,No,Yes,Good,High,Yes,Yes,11,2,0,5,4,Yes,No,No,GPU
+Yes,2016,Conference,Deep Learning,2016,No,N/A,Theory,2,9,30,39,0,No,No,Good,High,No,Yes,9,1,7,0,1,No,No,Yes,GPU
+Yes,2010,Conference,Deep Learning,2016,No,N/A,Empirical,4,7,31,28,0,No,No,Low,High,Yes,Yes,7,1,1,4,1,No,No,Yes,GPU
+Yes,2015,Conference,Deep Learning,2016,Yes,N/A,Empirical,3,9,42,14,0,Yes,No,Good,Low,No,Yes,13,5,2,2,4,No,No,Yes,GPU
+Yes,2015,Conference,Deep Learning,2016,No,N/A,Empirical,4,9,50,12,0,Yes,No,Excellent,Low,No,Yes,18,8,7,0,3,No,No,Yes,GPU
+Yes,2016,Conference,Deep Learning,2016,No,N/A,Empirical,5,11,33,11,0,Yes,No,Excellent,Low,No,Yes,15,5,8,1,1,Yes,No,Yes,GPU
+Yes,2011,Tech Report,Clustering,2016,No,N/A,Balance,1,29,31,76,4,No,No,Good,High,Yes,No,9,5,3,0,1,Yes,No,Yes,Desktop
+No,2016,Journal,Clustering,2016,No,N/A,Theory,5,12,36,27,6,No,Yes,Low,Medium,Yes,Yes,15,5,10,0,0,Yes,Yes,Yes,Cluster
+No,2002,Journal,Clustering,2016,No,N/A,Balance,3,13,64,99,0,Yes,Yes,Ok,High,Yes,No,33,1,32,0,0,Yes,No,Yes,Desktop
+No,2006,Journal,Clustering,2016,No,N/A,Theory,2,14,46,90,0,No,Yes,Low,High,No,No,18,2,10,6,0,Yes,No,No,Desktop
+No,2016,Conference,Clustering,2016,No,N/A,Theory,4,17,30,94,9,Yes,Yes,Good,Low,Yes,Yes,4,2,2,0,0,No,No,No,Desktop
+Yes,2016,Conference,Clustering,2016,Yes,Yes,Balance,2,9,13,80,3,No,Yes,Good,Medium,Yes,Yes,7,3,2,0,2,Yes,Yes,Yes,Desktop
+No,2016,Conference,Clustering,2016,No,No,Theory,4,9,18,63,1,Yes,No,Ok,Low,Yes,Yes,15,3,12,0,0,No,No,Yes,Desktop
+No,2000,Conference,Clustering,2016,No,N/A,Theory,1,7,9,34,0,No,No,Low,High,No,No,3,0,2,1,0,Yes,No,No,Desktop
+Yes,2011,Book,Clustering,2016,No,N/A,Balance,2,21,69,45,0,No,No,Good,High,Step-Code,No,2,0,0,0,2,Yes,No,Yes,Desktop
+Yes,2000,Journal,Search/Retrieval,2017,Yes,N/A,Balance,3,22,39,31,3,Yes,No,Ok,High,No,No,17,0,8,8,1,Yes,Yes,Yes,Desktop
+Yes,2010,Conference,Search/Retrieval,2017,No,Yes,Theory,1,10,13,176,2,No,Yes,Good,Medium,Yes,No,4,0,3,0,1,No,No,Yes,Desktop
+Yes,2000,Conference,Search/Retrieval,2017,No,N/A,Theory,1,9,20,33,0,No,Yes,Good,High,No,No,13,3,0,0,10,Yes,No,Yes,Desktop
+Yes,2015,Conference,Parallel Learning,2017,Yes,N/A,Balance,3,10,29,53,10,Yes,Yes,Ok,Medium,Yes,Yes,15,3,12,0,0,No,Yes,Yes,Server
+No,2014,Conference,Parallel Learning,2017,Yes,Yes,Theory,7,9,30,34,5,Yes,No,Low,Medium,Step-Code,Yes,10,1,9,0,0,No,Yes,Yes,Cluster
+No,2015,Conference,Parallel Learning,2017,No,No,Balance,5,9,26,66,1,Yes,Yes,Ok,Low,Step-Code,Yes,19,1,18,0,0,No,Yes,Yes,Desktop
+Yes,2011,Conference,Parallel Learning,2017,Yes,N/A,Balance,4,6,27,40,1,Yes,No,Low,Low,No,Yes,7,1,6,0,0,No,Yes,Yes,Server
+Yes,2016,Conference,Optimization,2017,Yes,N/A,Empirical,7,11,41,2,0,No,No,Excellent,Low,No,Yes,10,6,2,2,0,No,No,Yes,GPU
+No,2017,Journal,Feature Engineering,2017,Yes,No,Balance,3,32,43,175,3,No,Yes,Low,High,Step-Code,Yes,47,8,39,0,0,No,Yes,Yes,Desktop
+No,2016,Conference,Fairness,2017,No,No,Theory,2,12,26,31,1,Yes,Yes,Low,High,Yes,Yes,10,0,9,1,0,Yes,No,Yes,GPU
+No,2016,Conference,Fairness,2017,No,No,Empirical,5,10,18,51,0,Yes,No,Low,High,No,Yes,18,2,13,3,0,No,No,No,GPU
+No,2017,Conference,Fairness,2017,Yes,N/A,Theory,4,5,14,42,0,No,Yes,Low,Medium,No,Yes,8,0,8,0,0,No,No,No,Desktop
+No,2013,Conference,Fairness,2017,No,No,Empirical,5,9,12,42,0,No,No,Low,High,No,Yes,8,0,8,0,0,No,No,Partial,GPU
+Yes,2017,Conference,Deep Learning,2017,Yes,N/A,Theory,3,10,23,59,15,Yes,Yes,Ok,Low,Yes,Yes,18,0,13,2,3,Yes,No,No,GPU
+Yes,2017,Conference,Clustering,2017,Yes,Yes,Balance,2,9,15,59,10,Yes,No,Good,Low,Yes,Yes,6,2,2,0,2,No,No,No,Desktop
+Yes,2005,Conference,Class Imbalance,2017,No,N/A,Empirical,3,10,25,9,0,No,No,Good,Medium,No,Yes,13,2,8,0,3,Yes,No,Yes,Desktop
+Yes,2017,Conference,Other,2017,Yes,N/A,Empirical,2,12,41,50,0,No,Yes,Good,Low,No,Yes,3,0,2,1,0,No,No,Yes,GPU
