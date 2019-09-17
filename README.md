@@ -9,7 +9,7 @@ My goal in this work is to move the conversation forward toward quantifying our 
 
 ## Citations
 
-If you use this data or the paper, please cit the below (to be adjusted when NeurIPS official Bibtex is released)
+If you use this data or the paper, please cite the below (to be adjusted when NeurIPS official Bibtex is released)
 
 ```
 @incollection{NeurIPS2019_Raff,
